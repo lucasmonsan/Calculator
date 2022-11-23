@@ -1,4 +1,4 @@
-![Logo](https://firebasestorage.googleapis.com/v0/b/monsan-dev.appspot.com/o/CalculatorJS%2Flogo_calculator.png?alt=media&token=0500771d-f72b-48c8-ab1e-ce917846c1d9)
+![Logo](https://firebasestorage.googleapis.com/v0/b/monsan-dev.appspot.com/o/CalculatorJS%2Flogo_calculator.png?alt=media&token=5a8e6c65-178e-44ad-a676-7e01c214c1a1)
 
 O projeto consiste em uma calculadora simples, feita para aplicar os conceitos aprendidos no Bootcamp OrangeTech+ oferecido pelo [Banco Inter](https://bancointer.com.br) através da plataforma [DIO.me](https://dio.me).
 
